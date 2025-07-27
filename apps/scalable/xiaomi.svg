@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="64"
+   height="64"
+   viewBox="0 0 64 64"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4 (e7c3feb, 2024-10-09)"
+   sodipodi:docname="xiaomi.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     inkscape:zoom="6.2890625"
+     inkscape:cx="31.801242"
+     inkscape:cy="21.068323"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="notion"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g6"
+       transform="matrix(0.10434803,0,0,0.10434803,26.772183,26.108992)">
+      <g
+         id="g3">
+        <g
+           id="g2">
+          <path
+             id="路径_1_"
+             fill="#ff6900"
+             d="m 258.626,-146.231 c -48.304,-48.118 -117.759,-53.496 -202.634,-53.496 -84.982,0 -154.542,5.44 -202.826,53.688 -48.277,48.228 -53.174,117.676 -53.174,202.561 0,84.899 4.897,154.368 53.194,202.613 48.281,48.255 117.833,53.139 202.806,53.139 84.974,0 154.514,-4.884 202.795,-53.139 48.294,-48.254 53.205,-117.714 53.205,-202.613 0,-84.994 -4.964,-154.517 -53.366,-202.753 z" />
+        </g>
+      </g>
+      <g
+         id="g5">
+        <g
+           id="g4">
+          <path
+             id="形状结合"
+             fill="#ffffff"
+             d="m 204.546,-41.122 c 1.759,0 3.223,1.417 3.223,3.161 v 189.386 c 0,1.715 -1.464,3.139 -3.223,3.139 H 163.05 c -1.781,0 -3.228,-1.424 -3.228,-3.139 V -37.961 c 0,-1.743 1.446,-3.161 3.228,-3.161 z m -180.078,0 c 31.303,0 64.033,1.435 80.176,17.589 15.871,15.897 17.59,47.549 17.656,78.286 v 96.671 c 0,1.715 -1.446,3.139 -3.219,3.139 h -41.49 c -1.777,0 -3.229,-1.424 -3.229,-3.139 V 53.09 C 74.318,35.923 73.331,18.28 64.478,9.398 56.858,1.757 42.639,0.007 27.853,-0.356 h -75.21 c -1.764,0 -3.208,1.419 -3.208,3.136 v 148.645 c 0,1.715 -1.462,3.139 -3.237,3.139 h -41.516 c -1.774,0 -3.201,-1.424 -3.201,-3.139 V -37.961 c 0,-1.743 1.426,-3.161 3.201,-3.161 z m 9.287,75.427 c 1.766,0 3.201,1.413 3.201,3.143 v 113.977 c 0,1.715 -1.436,3.139 -3.201,3.139 H -9.829 c -1.792,0 -3.228,-1.424 -3.228,-3.139 V 37.448 c 0,-1.73 1.436,-3.143 3.228,-3.143 z" />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

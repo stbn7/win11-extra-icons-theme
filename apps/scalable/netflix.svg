@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="64"
+   height="64"
+   viewBox="0 0 64 64"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4-dev (1:1.4.0-dev+202403210151+2fe0648968)"
+   sodipodi:docname="netflix.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     inkscape:zoom="8.8940775"
+     inkscape:cx="37.496862"
+     inkscape:cy="37.834165"
+     inkscape:window-width="1920"
+     inkscape:window-height="1010"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     showguides="true" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="netflix"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#191919;fill-opacity:1;stroke-width:0.343794"
+       id="rect1418"
+       width="55.124615"
+       height="55.211716"
+       x="4.5621719"
+       y="4.3385468"
+       ry="11.304692"
+       inkscape:label="rect" />
+    <path
+       id="path915"
+       style="fill:#de001e;fill-opacity:1;stroke:none;stroke-width:0.163096px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       inkscape:label="path2"
+       d="M 46.087891 11.435547 L 36.730469 11.560547 L 36.714844 51.544922 L 46.068359 52.457031 L 46.087891 11.435547 z M 18.376953 11.568359 L 18.316406 52.466797 L 28.140625 51.458984 L 27.855469 11.710938 L 18.376953 11.568359 z " />
+    <path
+       style="fill:#f8092a;fill-opacity:1;stroke:none;stroke-width:0.163096px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 18.377195,11.567998 18.338582,39.976246 9.351781,0.9135 -18.212925,-40.747518 z"
+       id="path917"
+       inkscape:label="path1" />
+  </g>
+</svg>

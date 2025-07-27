@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="24"
+   height="24"
+   viewBox="0 0 16 16"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="krunner-search.svg"
+   inkscape:version="1.4.2 (ebf0e94, 2025-05-08)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs1" />
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="11.652531"
+     inkscape:cx="18.450927"
+     inkscape:cy="4.5054589"
+     inkscape:window-width="1920"
+     inkscape:window-height="1011"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
+  <path
+     fill="currentColor"
+     d="M 9.3476451,10.307874 A 4.4476131,4.4476131 0 1 1 10.204822,9.4506976 l 2.342679,2.3426794 a 0.6064927,0.6064927 0 1 1 -0.857176,0.857176 z M 9.8951059,6.7635307 a 3.2346277,3.2346277 0 1 0 -6.4692554,0 3.2346277,3.2346277 0 0 0 6.4692554,0"
+     id="path1"
+     style="fill:#363636;fill-opacity:1;stroke-width:0.808657" />
+</svg>

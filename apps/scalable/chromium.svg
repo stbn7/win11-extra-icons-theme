@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="64"
+   height="64"
+   viewBox="0 0 64 64"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4-dev (1:1.4.0-dev+202403210151+2fe0648968)"
+   sodipodi:docname="chromium.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     inkscape:zoom="6.2890625"
+     inkscape:cx="76.163975"
+     inkscape:cy="63.284472"
+     inkscape:window-width="1920"
+     inkscape:window-height="1011"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1">
+    <linearGradient
+       id="linear0"
+       gradientUnits="userSpaceOnUse"
+       x1="2.3059001"
+       y1="1.7146"
+       x2="29.694901"
+       y2="29.104601"
+       gradientTransform="scale(2)">
+      <stop
+         offset="0"
+         style="stop-color:rgb(15.686275%,68.627451%,91.764706%);stop-opacity:1;"
+         id="stop1" />
+      <stop
+         offset="1"
+         style="stop-color:rgb(51.372549%,54.509804%,89.411765%);stop-opacity:1;"
+         id="stop2" />
+    </linearGradient>
+    <filter
+       inkscape:collect="always"
+       style="color-interpolation-filters:sRGB"
+       id="filter4"
+       x="-0.12405606"
+       y="-0.12405606"
+       width="1.2481121"
+       height="1.2481121">
+      <feGaussianBlur
+         inkscape:collect="always"
+         stdDeviation="0.020527106"
+         id="feGaussianBlur4" />
+    </filter>
+  </defs>
+  <g
+     inkscape:label="icon"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <circle
+       style="fill:#2a2a2a;stroke:#000000;stroke-width:11.2193;stroke-linecap:round;filter:url(#filter4);fill-opacity:1;opacity:0.1"
+       id="path4"
+       cx="32.516773"
+       cy="32.675777"
+       r="22.807896" />
+    <path
+       fill="#a2c2fa"
+       d="M 256,140 H 484 A 256,256 0 0 1 244,511.7"
+       id="path1"
+       transform="matrix(0.11008268,0,0,0.11008268,4.3069295,4.1388497)" />
+    <path
+       fill="#6199f6"
+       d="M 357,314 244,511.7 A 256,256 0 0 1 40,118"
+       id="path2"
+       transform="matrix(0.11008268,0,0,0.11008268,4.3069295,4.1388497)" />
+    <path
+       fill="#396bd7"
+       d="M 256,140 H 484 A 256,256 1 0 0 40,118 l 115,196"
+       id="path3"
+       transform="matrix(0.11008268,0,0,0.11008268,4.3069295,4.1388497)" />
+    <circle
+       cx="256"
+       cy="256"
+       r="105"
+       fill="#4687f4"
+       stroke="#f1f1f1"
+       stroke-width="24"
+       id="circle3"
+       transform="matrix(0.11008268,0,0,0.11008268,4.3069295,4.1388497)" />
+  </g>
+</svg>

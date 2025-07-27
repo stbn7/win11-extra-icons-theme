@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="64"
+   height="64"
+   viewBox="0 0 64 64"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4-dev (1:1.4.0-dev+202403210151+2fe0648968)"
+   sodipodi:docname="whatsapp-black.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     inkscape:zoom="8.8940775"
+     inkscape:cx="30.301063"
+     inkscape:cy="35.360609"
+     inkscape:window-width="1920"
+     inkscape:window-height="1010"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1">
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient6"
+       id="linearGradient1069"
+       x1="27.531527"
+       y1="251.91537"
+       x2="46.429287"
+       y2="283.18591"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(-0.81881237,0,0,0.81881237,59.818022,-184.25275)" />
+    <linearGradient
+       id="linearGradient6"
+       inkscape:collect="always">
+      <stop
+         style="stop-color:#44d87d;stop-opacity:1;"
+         offset="0"
+         id="stop5" />
+      <stop
+         style="stop-color:#70e0a2;stop-opacity:1;"
+         offset="1"
+         id="stop6" />
+    </linearGradient>
+  </defs>
+  <g
+     inkscape:label="whatsapp-black"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="path2"
+       style="fill:#2a3437;fill-opacity:1;stroke-width:3.05433;stroke-linecap:square;paint-order:stroke fill markers"
+       d="M 32,4 A 27.999402,27.83518 0 0 0 4,31.834955 27.999402,27.83518 0 0 0 8.7843208,47.3313 L 8.1738513,59.349764 20.413038,57.170376 A 27.999402,27.83518 0 0 0 32,59.669912 27.999402,27.83518 0 0 0 60.000001,31.834955 27.999402,27.83518 0 0 0 32,4 Z"
+       inkscape:label="path" />
+    <path
+       style="fill:url(#linearGradient1069);fill-opacity:1;stroke:none;stroke-width:1.92586;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:stroke fill markers"
+       d="M 31.999999,8.1276604 A 23.438887,23.301416 0 0 0 8.5609729,31.42875 23.438887,23.301416 0 0 0 14.245343,46.623872 l -1.940491,8.918378 8.862522,-3.461651 A 23.438887,23.301416 0 0 0 31.999999,54.730271 23.438887,23.301416 0 0 0 55.439028,31.42875 23.438887,23.301416 0 0 0 31.999999,8.1276604 Z"
+       id="ellipse871"
+       inkscape:label="circle" />
+    <path
+       style="fill:#2a3437;fill-opacity:1;stroke:none;stroke-width:0.21418px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 24.113931,18.536549 3.023097,6.797052 -2.70819,3.650404 c 1.981718,4.562144 5.81203,7.941197 11.399593,10.195596 l 2.96012,-3.587359 1.700494,0.125775 5.668303,2.391527 -0.503848,3.272651 C 37.438262,54.740255 8.7696408,28.908425 20.712946,18.725355 Z"
+       id="path891"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccccccccc"
+       inkscape:label="phone" />
+  </g>
+</svg>

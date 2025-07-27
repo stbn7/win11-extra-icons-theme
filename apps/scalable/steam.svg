@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="64"
+   height="64"
+   viewBox="0 0 64 64"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4-dev (1:1.4.0-dev+202403210151+2fe0648968)"
+   sodipodi:docname="steam.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     inkscape:zoom="8.8940775"
+     inkscape:cx="26.928032"
+     inkscape:cy="41.432065"
+     inkscape:window-width="1920"
+     inkscape:window-height="1010"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1">
+    <linearGradient
+       id="P6EpvOlnaxRsoX5cWS9PMb"
+       x1="32"
+       x2="32"
+       y1="437.89001"
+       y2="387.89001"
+       gradientTransform="matrix(1.1213894,0,0,1.1213894,-3.8843076,-430.93341)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0"
+         stop-color="#155cde"
+         id="stop4-6" />
+      <stop
+         offset=".278"
+         stop-color="#1f7fe5"
+         id="stop5-2" />
+      <stop
+         offset=".569"
+         stop-color="#279ceb"
+         id="stop6-9" />
+      <stop
+         offset=".82"
+         stop-color="#2cafef"
+         id="stop7" />
+      <stop
+         offset="1"
+         stop-color="#2eb5f0"
+         id="stop8-1" />
+    </linearGradient>
+  </defs>
+  <g
+     inkscape:label="steam"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       fill="url(#P6EpvOlnaxRsoX5cWS9PMb)"
+       d="m 60.03489,32.077068 c 0,15.48078 -12.553954,28.034736 -28.034736,28.034736 -15.480781,0 -28.0347354,-12.553956 -28.0347354,-28.034736 0,-15.480782 12.5539544,-28.0347359 28.0347354,-28.0347359 15.480782,0 28.034736,12.5539539 28.034736,28.0347359 z"
+       id="path8"
+       style="fill:url(#P6EpvOlnaxRsoX5cWS9PMb);stroke-width:1.12139"
+       inkscape:label="path1" />
+    <path
+       fill="#ffffff"
+       d="M 25.432175,39.061081 3.9564476,30.181918 c -0.04261,0.625736 -0.068406,1.257078 -0.068406,1.894029 0,1.923182 0.2186715,3.792538 0.5920936,5.606946 l 18.3661158,7.594049 c 1.721334,0.712082 3.696101,-0.102043 4.410425,-1.818893 0.714325,-1.715727 -0.102042,-3.684886 -1.824501,-4.396968 z"
+       id="path10"
+       style="stroke-width:1.12139"
+       inkscape:label="path2" />
+    <circle
+       cx="41.531963"
+       cy="24.788033"
+       r="3.9248631"
+       fill="#ffffff"
+       id="circle9"
+       style="stroke-width:1.12139"
+       inkscape:label="circle" />
+    <path
+       fill="#ffffff"
+       d="m 52.185166,24.788036 c 0,-5.88393 -4.769271,-10.653199 -10.653202,-10.653199 -5.70675,0 -10.351547,4.490044 -10.626285,10.12839 l -0.02691,-0.03587 -5.859261,9.014851 c -0.285954,-0.02691 -0.575273,-0.04374 -0.869078,-0.04374 -4.954296,0 -8.971114,4.016817 -8.971114,8.971115 0,4.954299 4.016818,8.971115 8.971114,8.971115 4.9543,0 8.971118,-4.016816 8.971118,-8.971115 0,-0.256798 -0.01681,-0.510232 -0.03814,-0.761424 l 8.457519,-5.966913 c 5.879445,-0.0056 10.644229,-4.772634 10.644229,-10.6532 z m -10.653202,-7.28903 c 4.025788,0 7.289032,3.263243 7.289032,7.28903 0,4.025789 -3.263244,7.289032 -7.289032,7.289032 -4.025788,0 -7.28903,-3.263243 -7.28903,-7.289032 0,-4.025787 3.263242,-7.28903 7.28903,-7.28903 z M 24.150428,47.776519 c -3.096155,0 -5.606946,-2.510789 -5.606946,-5.606946 0,-3.096157 2.510791,-5.606948 5.606946,-5.606948 3.096157,0 5.606947,2.510791 5.606947,5.606948 0,3.096157 -2.51079,5.606946 -5.606947,5.606946 z"
+       id="path9"
+       style="stroke-width:1.12139"
+       inkscape:label="path3" />
+  </g>
+</svg>

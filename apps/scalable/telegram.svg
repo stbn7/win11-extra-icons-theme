@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="64"
+   height="64"
+   viewBox="0 0 64 64"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4-dev (1:1.4.0-dev+202403210151+2fe0648968)"
+   sodipodi:docname="telegram.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="px"
+     inkscape:zoom="8.8940775"
+     inkscape:cx="23.442566"
+     inkscape:cy="43.455884"
+     inkscape:window-width="1920"
+     inkscape:window-height="1010"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1">
+    <linearGradient
+       id="paint0_linear_87_7225"
+       x1="16"
+       y1="2"
+       x2="16"
+       y2="30"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="scale(1.9999999)">
+      <stop
+         stop-color="#37BBFE"
+         id="stop1"
+         offset="0"
+         style="stop-color:#35b0ff;stop-opacity:1;" />
+      <stop
+         offset="1"
+         stop-color="#007DBB"
+         id="stop2"
+         style="stop-color:#3e8bff;stop-opacity:1;" />
+    </linearGradient>
+  </defs>
+  <g
+     inkscape:label="telegram"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <circle
+       cx="32"
+       cy="32"
+       r="28"
+       fill="url(#paint0_linear_87_7225)"
+       id="circle1"
+       style="fill:url(#paint0_linear_87_7225);stroke-width:2"
+       inkscape:label="circle" />
+    <path
+       d="M 45.9732,20.4176 C 46.2224,18.80664 44.6908,17.535099 43.2584,18.164 L 14.729639,30.6896 c -1.02718,0.450999 -0.952039,2.007 0.113301,2.3462 l 5.883259,1.873599 c 1.123,0.357601 2.338801,0.1726 3.3194,-0.504799 L 37.31,25.2406 c 0.4,-0.276401 0.836,0.2924 0.4942,0.644599 l -9.548,9.844001 c -0.926201,0.955 -0.7424,2.5732 0.371799,3.2718 l 10.69,6.703599 c 1.199001,0.7518 2.7414,-0.0034 2.9656,-1.452399 z"
+       fill="#ffffff"
+       id="path1"
+       style="opacity:1;fill:#ffffff;fill-opacity:1;stroke-width:2"
+       inkscape:label="path" />
+  </g>
+</svg>
