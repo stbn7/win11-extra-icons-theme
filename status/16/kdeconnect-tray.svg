@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="20"
+   height="16"
+   enable-background="new"
+   version="1.1"
+   id="svg2"
+   sodipodi:docname="kdeconnect-tray.svg"
+   inkscape:version="1.4.2 (1:1.4.2+202505120737+ebf0e940d0)"
+   xml:space="preserve"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+     id="defs2" /><sodipodi:namedview
+     id="namedview2"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="18.075417"
+     inkscape:cx="10.5945"
+     inkscape:cy="8.3262256"
+     inkscape:window-width="1244"
+     inkscape:window-height="1014"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg2" /><style
+     id="current-color-scheme"
+     type="text/css">.ColorScheme-Text { color: #fcfcfc; } </style><style
+     id="current-color-scheme-5"
+     type="text/css">.ColorScheme-Text { color: #fcfcfc; } </style><style
+     id="current-color-scheme-2"
+     type="text/css">.ColorScheme-NegativeText { color: #da4453; } .ColorScheme-Text { color: #fcfcfc; } </style><style
+     id="current-color-scheme-6"
+     type="text/css">.ColorScheme-Text { color: #fcfcfc; } </style><style
+     id="current-color-scheme-9"
+     type="text/css">
+        .ColorScheme-Text {
+            color:#232629;
+        }
+    </style><path
+     fill="currentColor"
+     d="m 7.3440689,1.3708605 c -1.6090625,0.4928125 -2.662375,1.8346875 -2.4355625,3.325 a 14.725,14.725 0 0 0 1.845375,5.2071875 15.08125,15.08125 0 0 0 3.5909996,4.188313 c 1.178,0.946437 2.871375,0.7125 4.102812,-0.435813 a 1.16375,1.16375 0 0 0 0.105688,-1.59125 l -0.9405,-1.142375 a 1.1875,1.1875 0 0 0 -1.273,-0.377625 l -1.986687,0.625813 A 0.59375,0.59375 0 0 1 9.7808189,11.047798 l -0.0475,-0.04394 -0.1151875,-0.110435 a 8.66875,8.66875 0 0 1 -1.425,-1.821625 8.66875,8.66875 0 0 1 -0.9025,-2.296625 l -0.01425,-0.06175 a 0.59375,0.59375 0 0 1 0.1805,-0.558125 l 1.5354375,-1.406 a 1.1875,1.1875 0 0 0 0.30875,-1.2908125 l -0.515375,-1.3775 a 1.175625,1.175625 0 0 0 -1.441625,-0.710125 m 2.4521875,4.2524375 -1.273,1.1685 a 7.8375,7.8375 0 0 0 0.700625,1.687437 7.48125,7.48125 0 0 0 1.1114996,1.451125 l 1.649438,-0.518937 a 2.375,2.375 0 0 1 2.546,0.75525 l 0.9405,1.141187 a 2.35125,2.35125 0 0 1 -0.212563,3.214563 c -1.531875,1.427375 -3.89025,1.911875 -5.6572496,0.492812 a 16.26875,16.26875 0 0 1 -3.873625,-4.516062 15.9125,15.9125 0 0 1 -1.992625,-5.624 C 3.3944439,2.637923 4.9987564,0.84717304 6.9973189,0.23561054 A 2.363125,2.363125 0 0 1 9.8983814,1.664173 l 0.5153746,1.3775 A 2.375,2.375 0 0 1 9.7962564,5.623298 m 6.4873116,-3.60525 h -3.316687 a 0.59375,0.59375 0 0 1 0,-1.18749996 h 4.75 a 0.59375,0.59375 0 0 1 0.59375,0.59374996 v 4.75 a 0.59375,0.59375 0 0 1 -1.1875,0 V 2.8576105 l -2.548375,2.548375 A 0.59408033,0.59408033 0 0 1 13.734006,4.566423 Z m -2.722937,4.15625 a 0.59375,0.59375 0 1 1 -1.1875,0 0.59375,0.59375 0 0 1 1.1875,0 m -1.78125,1.78125 a 0.59375,0.59375 0 1 0 0,-1.1875 0.59375,0.59375 0 0 0 0,1.1875"
+     id="path1"
+     style="stroke-width:1.1875;fill:#232629;fill-opacity:1" /><style
+     id="current-color-scheme-0"
+     type="text/css">.ColorScheme-Text { color: #fcfcfc; } </style><style
+     id="current-color-scheme-5-9"
+     type="text/css">.ColorScheme-Text { color: #fcfcfc; } </style><style
+     id="current-color-scheme-2-3"
+     type="text/css">.ColorScheme-NegativeText { color: #da4453; } .ColorScheme-Text { color: #fcfcfc; } </style><style
+     id="current-color-scheme-6-6"
+     type="text/css">.ColorScheme-Text { color: #fcfcfc; } </style><style
+     id="current-color-scheme-9-0"
+     type="text/css">
+        .ColorScheme-Text {
+            color:#232629;
+        }
+    </style></svg>

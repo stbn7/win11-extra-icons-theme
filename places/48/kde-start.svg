@@ -7,8 +7,8 @@
    viewBox="0 0 64 64"
    version="1.1"
    id="svg1"
-   inkscape:version="1.4-dev (1:1.4.0-dev+202403210151+2fe0648968)"
-   sodipodi:docname="kde.svg"
+   inkscape:version="1.4.2 (1:1.4.2+202505120737+ebf0e940d0)"
+   sodipodi:docname="kde-start.svg"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -25,9 +25,9 @@
      inkscape:document-units="px"
      inkscape:zoom="8.8940775"
      inkscape:cx="21.643616"
-     inkscape:cy="36.035216"
+     inkscape:cy="36.091433"
      inkscape:window-width="1920"
-     inkscape:window-height="1010"
+     inkscape:window-height="1015"
      inkscape:window-x="0"
      inkscape:window-y="0"
      inkscape:window-maximized="1"
@@ -58,7 +58,7 @@
      id="layer1">
     <g
        id="g1"
-       transform="matrix(0.94915254,0,0,0.94915254,1.1951762,-0.13373222)">
+       transform="matrix(1.2516218,0,0,1.2421135,-8.3238418,-10.409611)">
       <rect
          style="opacity:1;fill:#577ef5;fill-opacity:1;stroke:none;stroke-width:0.104644"
          id="rect1-5"
