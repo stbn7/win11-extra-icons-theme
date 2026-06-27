@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   height="24"
+   width="24"
+   viewBox="0 0 24 24"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="network-bluetooth-activated.svg"
+   xml:space="preserve"
+   inkscape:version="1.4.3 (1:1.4.3+202512261035+0d15f75042)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="48.083261"
+     inkscape:cx="15.452363"
+     inkscape:cy="13.435029"
+     inkscape:window-width="1920"
+     inkscape:window-height="1015"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" /><defs
+     id="defs4157"><style
+       id="current-color-scheme"
+       type="text/css">
+      .ColorScheme-Text {
+        color:#31363b;
+      }
+    </style><style
+       type="text/css"
+       id="current-color-scheme-3">
+      .ColorScheme-Text {
+        color:#232629;
+      }
+      </style></defs><path
+     fill="currentColor"
+     d="m 11.810821,3.742181 a 0.59375,0.59375 0 0 1 0.629375,0.074812 l 4.75,3.859375 a 0.59375,0.59375 0 0 1 0,0.9215 l -4.182375,3.398625 4.182374,3.398625 a 0.59375,0.59375 0 0 1 0,0.9215 l -4.749999,3.859375 a 0.59375,0.59375 0 0 1 -0.967813,-0.46075 v -6.471874 l -3.7821868,3.07325 a 0.59375,0.59375 0 0 1 -0.748125,-0.9215 L 11.124446,11.996493 6.9420712,8.597868 a 0.59375,0.59375 0 1 1 0.748125,-0.9215 l 3.7821868,3.07325 V 4.2777435 A 0.59375,0.59375 0 0 1 11.810821,3.742181 m 0.849062,9.501188 v 5.225 l 3.214563,-2.6125 z m 0,-2.493751 3.214563,-2.6125 -3.214563,-2.6124995 z"
+     id="path1-3"
+     style="fill:#232629;fill-opacity:1;stroke-width:1.1875" /><style
+     id="current-color-scheme-53"
+     type="text/css">.ColorScheme-Text { color: #fcfcfc; } </style><style
+     id="current-color-scheme-5"
+     type="text/css">.ColorScheme-Text { color: #fcfcfc; } </style><style
+     id="current-color-scheme-2"
+     type="text/css">.ColorScheme-NegativeText { color: #da4453; } .ColorScheme-Text { color: #fcfcfc; } </style><style
+     id="current-color-scheme-6"
+     type="text/css">.ColorScheme-Text { color: #fcfcfc; } </style><style
+     id="current-color-scheme-9"
+     type="text/css">
+        .ColorScheme-Text {
+            color:#232629;
+        }
+    </style><style
+     id="current-color-scheme-0"
+     type="text/css">.ColorScheme-Text { color: #fcfcfc; } </style><style
+     id="current-color-scheme-5-9"
+     type="text/css">.ColorScheme-Text { color: #fcfcfc; } </style><style
+     id="current-color-scheme-2-3"
+     type="text/css">.ColorScheme-NegativeText { color: #da4453; } .ColorScheme-Text { color: #fcfcfc; } </style><style
+     id="current-color-scheme-6-6"
+     type="text/css">.ColorScheme-Text { color: #fcfcfc; } </style><style
+     id="current-color-scheme-9-0"
+     type="text/css">
+        .ColorScheme-Text {
+            color:#232629;
+        }
+    </style><circle
+     style="fill:#232629;stroke-width:0.988835;stroke-linecap:round;stroke-linejoin:round;fill-opacity:1"
+     id="path1"
+     cx="18.000027"
+     cy="11.989618"
+     r="1.008667" /><circle
+     style="fill:#232629;stroke-width:0.988835;stroke-linecap:round;stroke-linejoin:round;fill-opacity:1"
+     id="circle1"
+     cx="5.9792113"
+     cy="11.989618"
+     r="1.008667" /></svg>
